@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="731.34px" height="147.4px" viewBox="0 0 731.34 147.4" enable-background="new 0 0 731.34 147.4" xml:space="preserve">
+<g id="Livery">
+	<path fill="#AE132A" d="M24.188,113.326L23.765,28.51C6.446,30.668,2.643,92.138,3.449,113.326H24.188z"/>
+	<path fill="#AE132A" d="M707.15,113.326l0.422-84.816c17.321,2.159,21.123,63.628,20.317,84.816H707.15z"/>
+	<text transform="matrix(1 0 0 1 545.5684 79.3506)" font-family="'Arial-BoldMT'" font-size="40.32">P2-NTE</text>
+</g>
+<g id="Aircraft_Parts">
+	<g id="_x36_">
+		
+			<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="365.567" y1="0.683" x2="365.567" y2="146.719"/>
+		<g>
+			<path fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" d="M212.871,53.592v8.301
+				c-4,0.08-6.071-10.199-6.398-14.09c-0.297-3.54-0.001-12.593,6.398-12.507v6.179l0,0v-6.179
+				c6.399-0.086,6.696,8.968,6.398,12.507c-0.327,3.892-2.398,14.17-6.398,14.09V53.592L212.871,53.592z"/>
+			<path fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" d="M518.267,53.592v8.301
+				c4.001,0.08,6.072-10.199,6.398-14.09c0.298-3.54,0.002-12.593-6.398-12.507v6.179l0,0v-6.179
+				c-6.398-0.086-6.696,8.967-6.398,12.507c0.328,3.892,2.399,14.17,6.398,14.09V53.592L518.267,53.592z"/>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="365.567" y1="129.754" x2="365.567" y2="31.771"/>
+				<g>
+					<polygon points="365.567,28.947 367.193,32.927 365.567,31.982 363.941,32.927 					"/>
+				</g>
+			</g>
+		</g>
+		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M365.67,28.95h209.244v-8.917l132.51,10.451
+			c15.304,2.054,18.664,60.811,17.95,80.971H707.05V84.463L575.013,97.215v8.129H397.49v21.231l-15.859,3.179h-15.86h-0.202h-15.86
+			l-15.859-3.179l-0.001-21.231H156.326v-8.129L24.288,84.463v26.992H5.963c-0.712-20.16,2.648-78.917,17.952-80.971l132.51-10.451
+			v8.917H365.67L365.67,28.95z"/>
+	</g>
+</g>
+</svg>

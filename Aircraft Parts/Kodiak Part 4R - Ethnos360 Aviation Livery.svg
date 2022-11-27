@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="136.06px" height="62.36px" viewBox="0 0 136.06 62.36" enable-background="new 0 0 136.06 62.36" xml:space="preserve">
+<g id="Livery">
+	<path fill="#AE132A" d="M128.338,48.214c0,0-1.025,0.754-1.382,0.981c-9.009,5.73-19.275,8.53-31.998,10.054
+		c-0.534,0.064-2.142,0.263-2.142,0.263C71.984,50.214,40.59,42.529,3.405,36.178V24.346
+		C58.707,30.454,104.437,38.258,128.338,48.214z"/>
+	<path fill="#AE132A" d="M32.158,1.455l49.255,0.729c0,0,46.925,0.693,51.245,5.513l-0.597,28.006l-2.392,10.438
+		C102.844,36.078,57.647,28.394,3.405,22.457V9.867C13.641,8.143,23.763,5.493,32.158,1.455z"/>
+	<text id="KODIAK_-_Right" transform="matrix(1 0 0 1 87.0059 36.2861)" font-family="'Arial-BoldMT'" font-size="8.96">KODIAK</text>
+	<g id="Exhaust_Stack_-_Right">
+		<g>
+			<circle fill="#FFFFFF" cx="113.725" cy="21.356" r="6.626"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15.7109" y1="21.356" x2="28.9648" y2="21.356" gradientTransform="matrix(-1 0 0 1 136.0625 0)">
+				<stop  offset="0" style="stop-color:#DEDEDE"/>
+				<stop  offset="0.8818" style="stop-color:#000000"/>
+			</linearGradient>
+			<circle fill="url(#SVGID_1_)" cx="113.725" cy="21.356" r="6.627"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="29.4312" y1="26.3359" x2="29.4312" y2="16.6201" gradientTransform="matrix(-1 0 0 1 136.0625 0)">
+				<stop  offset="0" style="stop-color:#DEDEDE"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path fill="url(#SVGID_2_)" d="M92.912,21.356c0,6.626,6.143,4.729,13.72,4.729s13.72-2.116,13.72-4.729
+				c0-2.612-6.143-4.728-13.72-4.728S92.912,16.223,92.912,21.356z"/>
+			<ellipse cx="95.852" cy="21.854" rx="3.5" ry="4.482"/>
+		</g>
+	</g>
+	<g>
+		<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="32.158" y1="1.455" x2="32.158" y2="41.566"/>
+		<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="81.413" y1="2.183" x2="81.413" y2="54.807"/>
+		
+			<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="81.413" y1="46.141" x2="51.881" y2="46.141"/>
+		<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="77.637" y1="39.462" x2="77.637" y2="44.642"/>
+		<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="36.119" y1="39.462" x2="36.119" y2="42.517"/>
+	</g>
+</g>
+<g id="Fuselage_Parts">
+	<g id="_x34__-_Right">
+		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M3.405,36.126V9.963
+			c0,0,8.293-0.32,28.753-8.508l49.255,0.729c0,0,43.385,1.295,51.245,5.513l-0.597,28.006c0,0-1.348,10.712-3.724,12.512
+			c-10.428,7.895-24.873,9.624-35.521,11.298C64.477,45.902,3.405,36.126,3.405,36.126z"/>
+	</g>
+</g>
+</svg>

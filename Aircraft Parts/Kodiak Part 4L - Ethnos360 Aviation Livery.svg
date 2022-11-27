@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="136.06px" height="62.36px" viewBox="0 0 136.06 62.36" enable-background="new 0 0 136.06 62.36" xml:space="preserve">
+<g id="Livery">
+	<path fill="#AE132A" d="M7.725,48.214c0,0,1.025,0.754,1.381,0.981c9.008,5.73,19.275,8.53,31.998,10.054
+		c0.535,0.064,2.141,0.263,2.141,0.263c20.833-9.298,52.227-16.982,89.412-23.334V24.346C77.355,30.454,31.626,38.258,7.725,48.214z
+		"/>
+	<path fill="#AE132A" d="M103.904,1.455L54.649,2.183c0,0-46.924,0.693-51.245,5.513l0.596,28.006l2.392,10.438
+		c26.826-10.063,72.022-17.747,126.264-23.684V9.867C122.422,8.143,112.3,5.493,103.904,1.455z"/>
+	<text id="KODIAK_-_Left" transform="matrix(1 0 0 1 13.7153 36.2861)" font-family="'Arial-BoldMT'" font-size="8.96">KODIAK</text>
+	<g id="Exhaust_Stack_-_Left">
+		<g>
+			<circle fill="#FFFFFF" cx="22.338" cy="21.356" r="6.626"/>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15.7109" y1="21.356" x2="28.9648" y2="21.356">
+				<stop  offset="0" style="stop-color:#DEDEDE"/>
+				<stop  offset="0.8818" style="stop-color:#000000"/>
+			</linearGradient>
+			<circle fill="url(#SVGID_1_)" cx="22.338" cy="21.356" r="6.627"/>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="29.4312" y1="26.3364" x2="29.4312" y2="16.6211">
+				<stop  offset="0" style="stop-color:#DEDEDE"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</linearGradient>
+			<path fill="url(#SVGID_2_)" d="M43.151,21.356c0,6.626-6.143,4.729-13.72,4.729s-13.72-2.116-13.72-4.729
+				c0-2.612,6.142-4.728,13.72-4.728S43.151,16.223,43.151,21.356z"/>
+			<ellipse cx="40.21" cy="21.854" rx="3.5" ry="4.482"/>
+		</g>
+	</g>
+	
+		<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="103.904" y1="1.455" x2="103.904" y2="41.566"/>
+	<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="54.649" y1="2.183" x2="54.649" y2="54.807"/>
+	<line fill="none" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" x1="54.649" y1="46.141" x2="84.182" y2="46.141"/>
+	<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="58.426" y1="39.462" x2="58.426" y2="44.642"/>
+	<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="99.943" y1="39.462" x2="99.943" y2="42.517"/>
+	<g id="Cowling_-_Left">
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="34.5679" y1="55.668" x2="34.1105" y2="42.5715">
+			<stop  offset="0" style="stop-color:#A1A1A1"/>
+			<stop  offset="0.7882" style="stop-color:#000000"/>
+		</linearGradient>
+		<path opacity="0.2" fill="url(#SVGID_3_)" stroke="#939598" stroke-width="0.25" stroke-miterlimit="10" d="M49.606,55.142
+			c-12.187,0-15.4-6.545-30.8-6.545v-2.456c16.933,0,20.76-4.089,30.8-4.089V55.142z"/>
+		<g>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="92.125" y1="19.838" x2="92.125" y2="27.28"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="89.887" y1="17.787" x2="89.887" y2="29.331"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="85.405" y1="16.626" x2="85.405" y2="30.588"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="87.646" y1="16.87" x2="87.646" y2="30.248"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="83.168" y1="16.627" x2="83.168" y2="30.589"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="80.928" y1="16.956" x2="80.928" y2="30.194"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="76.447" y1="17.999" x2="76.447" y2="29.206"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="78.688" y1="17.371" x2="78.688" y2="29.806"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="74.208" y1="18.924" x2="74.208" y2="28.301"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="71.968" y1="20.392" x2="71.968" y2="26.828"/>
+		</g>
+	</g>
+</g>
+<g id="Fuselage_Parts">
+	<g id="_x34__-_Left">
+		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M132.657,36.126V9.963
+			c0,0-8.293-0.32-28.753-8.508L54.649,2.183c0,0-43.385,1.295-51.245,5.513l0.596,28.006c0,0,1.348,10.712,3.724,12.512
+			c10.428,7.895,24.872,9.624,35.521,11.298C71.586,45.902,132.657,36.126,132.657,36.126z"/>
+	</g>
+</g>
+</svg>
