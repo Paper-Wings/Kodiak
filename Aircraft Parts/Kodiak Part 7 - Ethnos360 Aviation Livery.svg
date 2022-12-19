@@ -2,20 +2,65 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Aircraft_Parts" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="283.46px" height="62.36px" viewBox="0 0 283.46 62.36" enable-background="new 0 0 283.46 62.36"
+	 y="0px" width="283.4648px" height="62.3623px" viewBox="0 0 283.4648 62.3623" enable-background="new 0 0 283.4648 62.3623"
 	 xml:space="preserve">
-<g id="_x37_">
+<g id="_x31_0">
 	<g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="141.732" y1="61.342" x2="141.732" y2="34.005"/>
+				<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="141.7314" y1="61.4775" x2="141.7314" y2="34.0059"/>
 			<g>
-				<polygon points="141.732,31.181 143.358,35.16 141.732,34.216 140.106,35.16 				"/>
+				<polygon points="141.7314,31.1816 143.3574,35.1621 141.7314,34.2178 140.1055,35.1621 				"/>
 			</g>
 		</g>
 	</g>
-	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M141.731,61.342h135.613
-		c5.329-15.174,5.549-60.321,0-60.321H143.32v30.16h-1.588h0h-1.587V1.021H6.122c-5.55,0-5.331,45.147,0,60.321H141.731
-		L141.731,61.342z"/>
+	<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M141.7305,61.4775h136.2168
+		c5.3555-15.2412,5.5762-60.5903,0-60.5903H143.3262v30.2944h-1.5938h-0.001h-1.5947V0.8872H5.5156
+		c-5.5742,0-5.3545,45.3491,0,60.5903h136.2158H141.7305z"/>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="2.0918" y1="10.6772" x2="8.0918" y2="10.6772"/>
+			<polyline fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" points="15,10.6772 21,10.6772 21,16.6772 			
+				"/>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="6.9949,3.4974" x1="21" y1="20.1748" x2="21" y2="28.9185"/>
+			<polyline fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" points="21,30.667 21,36.667 27,36.667 			"/>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="11.4453,5.7227" x1="32.7227" y1="36.667" x2="132.8691" y2="36.667"/>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="135.7305" y1="36.667" x2="141.7305" y2="36.667"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="281.3711" y1="10.6777" x2="275.3711" y2="10.6777"/>
+			<polyline fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" points="268.4629,10.6777 262.4629,10.6777 
+				262.4629,16.6777 			"/>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="6.9949,3.4974" x1="262.4629" y1="20.1753" x2="262.4629" y2="28.9189"/>
+			<polyline fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" points="262.4629,30.667 262.4629,36.667 
+				256.4629,36.667 			"/>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="11.4453,5.7227" x1="250.7402" y1="36.667" x2="150.5938" y2="36.667"/>
+			
+				<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="147.7324" y1="36.667" x2="141.7324" y2="36.667"/>
+		</g>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
 </g>
 </svg>
