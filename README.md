@@ -3,6 +3,8 @@
 
 Laminated Paper Airplane of Quest Kodiak
 
+![Completed Paper Kodiak](https://github.com/Paper-Wings/Kodiak/raw/main/completed%20paper%20kodiak.jpg)
+
 ## Assembly Insructions
 
 ### Tools
@@ -22,10 +24,13 @@ Laminated Paper Airplane of Quest Kodiak
   * 527 Multi-Use Glue
   * Tacky Glue
   * Seal-All
-* **Paperclip:** Used to balance the model
+* **Paperclips:** Used to balance the model
+* (optional) **0.041 Safety Wire:** Used to balance the model instead of paperclips.  About 7-8 inches is needed.
 
 ### Printing
-Place Parts and Tools using vector art program (Inkscape, Illustrator, CorelDRAW, etc).  If a larger or smaller model is wanted, scale all parts and tools equally
+Either:
+* Download the Release file ([Latest Release](https://github.com/Paper-Wings/Kodiak/releases/latest)) in the paper size you need OR
+* Place Parts and Tools using vector art program (Inkscape, Illustrator, CorelDRAW, etc).  If a larger or smaller model is wanted, scale all parts and tools equally
 
 ### Cutting Out Parts
 Rought cut each piece, then trim each piece on the line.  Do not cut the main wing backing to size. 
@@ -34,14 +39,20 @@ Fold on dashed lines
 ### Assembly and Gluing
 * Glue fuselage parts
 * Glue main wing parts (5 & 6) back to back, aligning arrows
-* (2x) Glue 2 wing strut parts together
+* (2x) Glue 2 wing strut parts (8) together
 * Glue horizontal stab (7) to fuselage assembly
 * Crease main wing to on center line
 * Glue wing assembly to fuselage assembly
 * Glue wing struts to fuselage assembly and to wing at location indicated on model
+* Glue wing reinforcement (9) to center of main wing
+* (optional) Landing Gear
+  * (2x) Glue landing gear strut parts together
+  * Glue wheel to landing gear struts
+  * Glue landing gear struts to fuselage
 
 ### Finishing Touches
-* Todo
+* Cut and fold flaps and ailerons
+* Droop discontinuous leading edge
 
 ## Test Flying and Adjusting
 * Todo
