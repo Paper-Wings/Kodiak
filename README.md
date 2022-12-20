@@ -3,7 +3,7 @@
 
 Laminated Paper Airplane of Quest Kodiak
 
-![Completed Paper Kodiak](https://github.com/Paper-Wings/Kodiak/raw/main/completed%20paper%20kodiak.jpg)
+![Completed Paper Kodiak](https://github.com/Paper-Wings/Kodiak/raw/main/completed-paper-kodiak.jpg)
 
 ## Assembly Insructions
 
