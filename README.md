@@ -38,6 +38,10 @@ Fold on dashed lines
 
 ### Assembly and Gluing
 * Glue fuselage parts
+  * 1L--1R
+  * 2L--1L-1R--2R
+  * 3L--2L-1L-1R-2R--3R
+  * 4L--3L-2L-1L-1R-2R-3R--4R
 * Glue main wing parts (5 & 6) back to back, aligning arrows
 * (2x) Glue 2 wing strut parts (8) together
 * Glue horizontal stab (7) to fuselage assembly
